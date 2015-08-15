@@ -1,2 +1,1 @@
 # angularJS
-pininos con angularJS
